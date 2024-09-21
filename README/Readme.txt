@@ -1,6 +1,5 @@
 Hosted Link : mindunit.aptecggarden.com
-Github Link: https://github.com/m-anas-2109d/PlantNest
-
+Github Link: https://github.com/TeamMindUnit/MINDUNIT
 Hosted Link: 
 
 Admin Credentials:
